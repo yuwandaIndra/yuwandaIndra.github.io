@@ -168,7 +168,7 @@ section img{
 }
 
 section .container > *{
-    margin: 2rem;
+    margin: 1rem;
 }
 
 .content{
@@ -213,7 +213,7 @@ section .container > *{
 
 @media (max-width: 850px){
     section .container{
-        grid-template-columns: 1fr;
+        grid-template-columns: 0.5fr;
     }
 }
 
